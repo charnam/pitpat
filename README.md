@@ -36,3 +36,6 @@ After some persistence, I was able to find that holding the final MINUS keypress
 There was a problem here, though. Every time I powered the treadmill ON, it would require the password I described above to be entered. This was interesting, but I wasn't going to keep it working in this way. After all, I assumed that they added what I was using as some sort of "factory test" mode so that company members would not have to use their own terrible app in order to operate the device in testing scenarios.
 
 After considering the idea, I eventually decided to call the company and ask for assistance in using the treadmill without the app. They told me about a different sequence of buttons that I hadn't tried before. I recorded the call, and put the sequence they gave me above. Let's all hope they don't "fix" this in their future models, because I do not want anyone else to be subjected to a horrible, proprietary, internet-active mobile app.
+
+# Licensing
+If you'd like to reuse any of this article's content, please submit an issue on GitHub and I'll respond as soon as I can. I may give this page a CC license at some point, and if you have suggestions, feel free to provide them. As of writing this, I can't consider these things.
