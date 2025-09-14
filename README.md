@@ -12,12 +12,9 @@ After this, you should hear a beep. This signals to you that the treadmill is no
 
 ---
 
-To **permanently** keep the treadmill in an "activated" state, here are the steps you should follow:
+To **permanently** keep the treadmill in an "activated" state, here are the buttons you should press:
 
-1. `MINUS, MINUS, MINUS, PLUS, and HOLD PLUS for 3 SECONDS`
-2. You are now in a menu that does not provide any output. Follow these next instructions carefully.
-3. `MINUS, MINUS, MINUS, PLUS, and HOLD PLUS for an unknown period of time` (I suggest holding PLUS for at least 20 seconds, as failure to execute the correct actions may result in your device becoming unusable.)
-4. Apparently, during the final PLUS button press, you'll hear one beep, and then a few seconds later, you'll hear more. My treadmill made no audible sound during this part, and it's possible yours won't either.
+`MINUS, MINUS, MINUS, PLUS, and HOLD PLUS for 3 SECONDS`
 
 ## Contributing
 If you have a treadmill with a handle, call customer support for help setting the treadmill up (always remember to have kindness with support agents!) and submit an issue detailing exactly what the agent told you to do. I recommend recording your call as well as exactly what you do with the buttons, and writing down, clearly, what steps were performed. Make note of the timing of your button presses, including exactly how many seconds a given action takes. It's unfortunate that my instructions are vague in that way.
